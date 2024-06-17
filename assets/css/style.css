@@ -7350,3 +7350,30 @@ button {
     transform: translateY(0); }
   .back-to-top:hover {
     color: var(--color-white); }
+
+
+    .logo{
+      width: 160px;
+    }
+
+.box-img1{
+  width: 370px;
+  height: 270px;
+}
+
+.circle-img1{
+  width: 270px;
+  height: 270px;
+  border-radius: 50%;
+}
+
+.doctor-1{
+  width: 230px;
+  height: 280px;
+}
+
+.avatar img {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+}
